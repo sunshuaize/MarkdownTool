@@ -408,3 +408,7 @@ test*.md
 .cursorindexingignore
 .specstory/
 
+# Inno Setup 安装程序输出
+installer/
+*.zip
+

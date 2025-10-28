@@ -12,7 +12,8 @@
         Width="1400"
         WindowStartupLocation="CenterScreen"
         ExtendsContentIntoTitleBar="True"
-        Background="White">
+        Background="White"
+        Icon="logo/logo.ico">
     <ui:FluentWindow.Resources>
         <local:BoolToIconConverter x:Key="BoolToIconConverter"/>
         
